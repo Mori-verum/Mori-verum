@@ -21,6 +21,8 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js?style=flat&logo=figma&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express?style=flat&logo=figma&logoColor=white" />
 </p>
 
 <div>
