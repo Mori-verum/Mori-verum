@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Anastasia 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h3 align="center">Junior Frontend Developer from Russia 🇷🇺</h3>
+<h3 align="center">Frontend Developer from Russia 🇷🇺</h3>
 
 <h3>What I want</h3>
 <ul>
